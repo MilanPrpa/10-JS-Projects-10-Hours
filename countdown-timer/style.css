@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1454452052541-2042ce640949?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNpYmVuaWt8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  
+}
